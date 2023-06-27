@@ -69,7 +69,6 @@ typings/
 # Docker Web Serveur
 web-server/node_modules/
 
-dist/
 dev/
 prod/
 hml/
